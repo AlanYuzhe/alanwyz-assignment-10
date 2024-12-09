@@ -1,0 +1,8 @@
+flask==3.1.0
+numpy==2.2.0
+pandas==2.2.3
+Pillow==11.0.0
+torch==2.5.1
+torchvision==0.20.1
+open_clip_torch==2.29.0
+scikit-learn==1.5.2

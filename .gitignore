@@ -1,0 +1,5 @@
+data/
+*.pickle
+static/coco_images_resized
+*.ipynb
+.DS_Store
